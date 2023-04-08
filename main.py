@@ -1,7 +1,6 @@
 #Example usage: python3 main.py $PATH_TO_SOURCE_DIR $PATH_TO_DESTINATION_DIR $PATH_TO_LOG_FILE $Interval(int)
 
 # I debugged this program on windows, If the cli argument uses '\', it will replace it with '/'
-# I could have made the script so it would get the type of OS used and change the path accordingly.
  
 
 
